@@ -13,7 +13,7 @@
       <h1>Hua Liu</h1>
       <p><b>Email: liuhua2@msu.edu</b></p>
       <p><b>Office: Engineering Building 3308</b></p>
-      <p><b>Address: 428 S Shaw Ln Rm 3115, East Lansing, MI 48824</b></p>
+      <p><b>Address: 428 S Shaw Ln Rm 3308, East Lansing, MI 48824</b></p>
     </td>
     <td width="45%">
       <img src="/amei.jpg" width="100%">    
